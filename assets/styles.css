@@ -1,0 +1,40 @@
+body{
+    background: #3e4149;
+    font-family: "Montserrat", sans-serif;
+    text-align: justify;
+}
+h1 {
+    text-align: center;
+    color: #ff9999;
+    font-size: 40px;
+}
+h2{
+    color: #ffc8c8;
+    font-size: 35px;
+    padding-left: 6px;
+}
+hr{
+    align-items: center;
+    border-color: #444f5a;
+    padding: 0px;
+}
+p{
+    color: #ffc8c8;
+    font-size: 25px;
+    padding-left: 7px;
+}
+.first-color { 
+	background: #ffc8c8; 
+}
+	
+.second-color { 
+	background: #ff9999; 
+}
+
+.third-color { 
+	background: #444f5a; 
+}
+
+.fourth-color { 
+	background: #3e4149; 
+}

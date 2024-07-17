@@ -30,6 +30,9 @@ h5 {
 a{
     color: #ffc8c8;
 }
+img {
+    display: none;
+}
 a:visited{
     color: #ff9999;
 }

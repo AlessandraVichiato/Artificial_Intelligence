@@ -3,7 +3,7 @@ body{
     font-family: "Montserrat", sans-serif;
     text-align: justify;
 }
-h1 {
+h1{
     text-align: center;
     color: #ff9999;
     font-size: 40px;
@@ -24,7 +24,7 @@ p{
     padding-left: 7px;
     margin-bottom: 0;
 }
-h5 {
+h5{
     text-align: center;
 }
 a{
@@ -47,24 +47,21 @@ li{
     border-radius: 10px;
     box-shadow: 0px 0px 1px 1px rgb(0,0,0);
     padding:15px;
-    min-height:20px; 
+    min-height:20px;
     min-width: 120px;
 }
 .recuo{
     text-indent: 40px;
 }
 .first-color { 
-	background: #ffc8c8; 
+	background: #ffc8c8;
 }
-	
 .second-color { 
-	background: #ff9999; 
+	background: #ff9999;
 }
-
 .third-color { 
-	background: #444f5a; 
+	background: #444f5a;
 }
-
 .fourth-color { 
-	background: #3e4149; 
+	background: #3e4149;
 }

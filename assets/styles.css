@@ -39,6 +39,17 @@ a:visited{
 li{
     color: #ffc8c8;
 }
+.button{
+    position: absolute;
+    background-color:#0a0a23;
+    color:#fff;
+    border:none;
+    border-radius: 10px;
+    box-shadow: 0px 0px 1px 1px rgb(0,0,0);
+    padding:15px;
+    min-height:20px; 
+    min-width: 120px;
+}
 .recuo{
     text-indent: 40px;
 }
